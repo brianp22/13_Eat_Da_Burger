@@ -9,4 +9,4 @@ CREATE TABLE burgers (
 	burger_name varchar(100) NOT NULL,
 	devoured BOOLEAN NOT NULL,
 	PRIMARY KEY (id)
-)
+);
