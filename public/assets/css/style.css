@@ -1,20 +1,19 @@
-
 li {
     padding: 5px;
     margin: 5px;
     background: #faebd7;
   }
   
-  .label {
+.label {
     font-weight: bold;
   }
   
-  .create-update-form {
+body {
     padding: 5px;
     margin: 5px;
     background: aqua;
   }
   
-  .form-group {
+.form-group {
     margin-bottom: 5px;
   }
